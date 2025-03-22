@@ -1,4 +1,5 @@
 In this project, let's build a **Nxt Trendz - Products Filters Group** app by applying the concepts we have learned till now.
+If you want to see the output click here : https://padmanxt.ccbp.tech
 
 ### Refer to the images below:
 
